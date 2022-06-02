@@ -9,7 +9,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KratiSharma06&theme=highcontrast&show_icons=true&count_private=true)
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KratiSharma06&layout=compact)
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KratiSharma06&hide=javascript,html)
 
@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KratiSharma06)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KratiSharma06)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KratiSharma06&layout=compact)
 -->
