@@ -2,12 +2,13 @@
 
   
 - 🤔 B.Tech with 1 yr Experience in Application Development
-- 🌱 I’m currently learning ...Data Science 
+- 🌱 I’m currently learning  Data Science 
 - 📫 How to reach me: ... krati15sharma16@gmail.com
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KratiSharma06)
 
-![counter](https://[YourEndpoint].m.pipedream.net)
+![Github stats](https://github-readme-stats.vercel.app/api?username=KratiSharma06&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KratiSharma06)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KratiSharma06&layout=compact)
 
 
 <!--
@@ -23,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... krati15sharma16@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=KratiSharma06)
 -->
