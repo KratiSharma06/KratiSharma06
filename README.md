@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Krati
 
   
-- 🤔 B.Tech with 1 yr Experience in Application Development
+- 🤔 B.Tech with Experience in Application Development
 - 🌱 I’m currently learning  Data Science 
 - 📫 How to reach me: ... krati15sharma16@gmail.com
 
